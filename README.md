@@ -1,4 +1,5 @@
 # `stm32f3discovery-led-spinner`
 
 # License
-MIT license ([LICENSE-MIT](LICENSE-MIT) or http://opensource.org/licenses/MIT)
+
+This project is licensed under the [GNU General Public License v3.0 or later](LICENSE) (`GPL-3.0-or-later`).
